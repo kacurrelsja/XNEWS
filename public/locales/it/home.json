@@ -1,0 +1,276 @@
+{
+    "search_placeholder": "Cerca qui",
+    "search_aria_label": "Cerca",
+    "title": "home-11",
+    "catch_latest_scores": "Cattura gli ultimi punteggi in diretta!",
+    "content": [
+      {
+        "section": "hero-section",
+        "headings": [
+          {
+            "id": 1,
+            "content": "Scommetti con stile. Vinci alla grande. Incassa in Crypto!"
+          }
+        ],
+        "texts": [
+          {
+            "id": 1,
+            "content": "Il futuro delle scommesse sportive è arrivato — veloce, sicuro e pagato nella tua criptovaluta preferita. Fai la tua puntata. Incassa all’istante."
+          }
+        ],
+        "buttons": [
+          {
+            "id": 1,
+            "content": "Cominci ora",
+            "path": "/"
+          },
+          {
+            "id": 2,
+            "color": "primary-alta",
+            "content": "Crea",
+            "path": "/create"
+          }
+        ],
+        "badge": {
+          "image": {
+            "src": "/images/home/hero/chip.png"
+          }
+        },
+        "images": [
+          {
+            "id": 1,
+            "src": "/images/home/hero/hero1.png",
+            "alt": "banner img"
+          }
+        ],
+        "items": [
+          {
+            "id": 1,
+            "title": "Collectibles",
+            "counter": 3091
+          },
+          {
+            "id": 2,
+            "title": "Auctions",
+            "counter": 1020
+          },
+          {
+            "id": 3,
+            "title": "NFT Artist",
+            "counter": 5329
+          }
+        ]
+      },
+      {
+        "section": "category-section",
+        "items": [
+          {
+            "id": 1,
+            "title": "Notizie",
+            "path": "/collection",
+            "icon": "feather-image"
+          },
+          {
+            "id": 2,
+            "title": "Sport",
+            "path": "/collection",
+            "icon": "feather-music"
+          },
+          {
+            "id": 3,
+            "title": "Casino in Diretta",
+            "path": "/collection",
+            "icon": "feather-map"
+          },
+          {
+            "id": 4,
+            "title": "Poker in Diretta",
+            "path": "/collection",
+            "icon": "feather-search"
+          },
+          {
+            "id": 5,
+            "title": "Crypto Wallet",
+            "path": "/collection",
+            "icon": "feather-grid"
+          },
+          {
+            "id": 6,
+            "title": "Live Score",
+            "path": "/collection",
+            "icon": "feather-activity"
+          }
+        ]
+      },
+      {
+        "section": "service-section",
+        "section_title": {
+          "title": "Decentralizza il tuo profitto!"
+        },
+        "items": [
+          {
+            "id": 1,
+            "title": "Configura il tuo portafoglio",
+            "path": "/connect",
+            "subtitle": "Passo-01",
+            "description": "Collega il tuo portafoglio crypto per essere pagato in tempo reale!",
+            "images": [
+              {
+                "src": "/images/icons/shape-7.png"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Scambia diverse criptovalute",
+            "path": "/collection",
+            "subtitle": "Passo-02",
+            "description": "Ora puoi scegliere la criptovaluta con cui desideri essere pagato.",
+            "images": [
+              {
+                "src": "/images/icons/shape-1.png"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Monitora il mercato in tempo reale",
+            "path": "/connect",
+            "subtitle": "Passo-03",
+            "description": "Puoi visualizzare le criptovalute più in tendenza, punteggi live e notizie sportive.",
+            "images": [
+              {
+                "src": "/images/icons/shape-5.png"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "Rimani aggiornato",
+            "path": "/creator",
+            "subtitle": "Passo-04",
+            "description": "Consulta le notizie e controlla i punteggi attuali.",
+            "images": [
+              {
+                "src": "/images/icons/shape-6.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "live-explore-section",
+        "section_title": {
+          "title": "Live Bidding"
+        }
+      },
+      {
+        "section": "newest-section",
+        "section_title": {
+          "title": "Newest Items"
+        }
+      },
+      {
+        "section": "top-sller-section",
+        "section_title": {
+          "title": "Top Seller in"
+        }
+      },
+      {
+        "section": "explore-product-section",
+        "section_title": {
+          "title": "Find Your Non Replaceable Token"
+        }
+      },
+      {
+        "section": "video-section",
+        "section_title": {
+          "title": "Meet with Nuron",
+          "subtitle": "An NFT is a digital asset that represents real-worldobjects like art, music, in-game items and videos. They are bought and sold online."
+        },
+        "images": [
+          {
+            "src": "/images/bg/bg-image-21.jpg"
+          }
+        ],
+        "video": {
+          "videoId": "7e90gBu4pas"
+        }
+      },
+      {
+        "section": "collection-section",
+        "section_title": {
+          "title": "Top Collection"
+        }
+      },
+      {
+        "section": "newsletter-section",
+        "section_title": {
+          "title": "Join our newsletter",
+          "subtitle": "Weekly FREE UI resource stroight to your inbox"
+        }
+      },
+      {
+        "section": "brand-section",
+        "items": [
+          {
+            "id": 1,
+            "image": {
+              "src": "/images/brand/brand-01.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 2,
+            "image": {
+              "src": "/images/brand/brand-03.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 3,
+            "image": {
+              "src": "/images/brand/brand-06.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 4,
+            "image": {
+              "src": "/images/brand/brand-07.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 5,
+            "image": {
+              "src": "/images/brand/brand-04.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 6,
+            "image": {
+              "src": "/images/brand/brand-02.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 7,
+            "image": {
+              "src": "/images/brand/brand-01.png",
+              "alt": "nuron-brand_nft"
+            }
+          },
+          {
+            "id": 8,
+            "image": {
+              "src": "/images/brand/brand-03.png",
+              "alt": "nuron-brand_nft"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

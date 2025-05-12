@@ -1,0 +1,52 @@
+{
+    "id": "footer-data-01",
+    "logo-widget": {
+        "logo": [
+            {
+                "src": "/images/logo/logo-white.png",
+                "alt": "logo"
+            }
+        ],
+        "text": "Next-Gen Betting with Real-Time Crypto Settlements You Can Trust."
+    }, 
+    "quicklink-widget": {
+        "title": "Pages",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Home",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "text": "About Us",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "text": "Crypto",
+                "path": "/crypto"
+            },
+            {
+                "id": 4,
+                "text": "News",
+                "path": "/news"
+            }
+        ] 
+    },
+    "footer-link-widget": {
+        "menu": [
+            {
+                "id": 1,
+                "text": "Terms",
+                "path": "/terms-condition"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy",
+                "path": "/privacy-policy"
+            }
+        ]
+    },
+    "copyright_text": "©2025 Bettings, IT SOLUTIONS. All rights reserved"
+}

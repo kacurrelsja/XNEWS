@@ -1,0 +1,70 @@
+{
+    "title": "chi siamo",
+    "content": [
+        {
+            "section": "about-section",
+            "section_title": {
+                "title": "Veloce, equo e alimentato da criptovalute. <br> Scommesse pensate per il futuro."
+            },
+            "image": {
+                "src": "/images/banner/about2.jpg"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Perché lo facciamo",
+                    "description": "Abbiamo creato questa piattaforma per portare velocità, trasparenza e libertà alle scommesse online. Utilizzando la criptovaluta, eliminiamo i ritardi e gli intermediari, offrendo un accesso istantaneo e sicuro alle tue vincite, in qualsiasi momento e da qualsiasi luogo. È una scommessa semplice, equa e pronta per il futuro.",
+                    "path": "/"
+                },
+                {
+                    "id": 2,
+                    "title": "Aiutarti a crescere in ogni fase.",
+                    "description": "Il nostro team di esperti è impegnato a guidarti in ogni fase dell'esperienza di scommessa: che si tratti di configurare il tuo portafoglio crypto, fare la tua prima scommessa o incassare le tue vincite. Semplifichiamo il processo affinché tu possa concentrarti solo sul divertimento del gioco."
+                }
+            ]
+        },
+        {
+            "section": "quote-section",
+            "section_title": {
+                "title": "Scopri le ultime notizie, i punteggi in tempo reale o monitora come cambia il mercato delle criptovalute!"
+            },
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Rimani sempre aggiornato con le ultime notizie sportive, compresi i punteggi in tempo reale e gli highlights delle partite. Che tu sia un tifoso che segue l'azione o un appassionato di criptovalute che monitora le fluttuazioni del mercato, la nostra piattaforma ti offre i dati più aggiornati a portata di mano. Con una perfetta integrazione, puoi seguire le partite, controllare i punteggi e persino monitorare i prezzi delle criptovalute mentre cambiano, garantendoti di essere sempre informato e pronto a prendere le migliori decisioni, sia per le scommesse che per rimanere al passo con le novità."
+                }
+            ]
+        },
+        {
+            "section": "cta-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Scommetti sullo sport. Vinci e ricevi in cripto <br/>subito, in modo sicuro, ogni volta."
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Le criptovalute stanno trasformando l’industria delle scommesse, offrendo pagamenti più rapidi, maggiore privacy e accesso globale. Con le transazioni su blockchain, gli utenti possono ora beneficiare di vincite istantanee, senza confini e in totale sicurezza."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/create",
+                    "content": "Crea"
+                },
+                {
+                    "id": 2,
+                    "path": "/contact",
+                    "content": "Contattaci",
+                    "color": "primary-alta"
+                }
+            ],
+            "image": {
+                "src": "/images/banner/about3.jpg"
+            }
+        }
+    ]
+}

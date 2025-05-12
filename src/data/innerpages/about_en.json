@@ -1,0 +1,70 @@
+{
+    "title": "about",
+    "content": [
+        {
+            "section": "about-section",
+            "section_title": {
+                "title": "Fast, fair, and crypto-powered. <br> Betting made for the future."
+            },
+            "image": {
+                "src": "/images/banner/about2.jpg"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Why We Do This",
+                    "description": "We created this platform to bring speed, transparency, and freedom to online betting. By using crypto, we eliminate delays and middlemen — giving you instant, secure access to your winnings, anytime, anywhere. It’s betting made simple, fair, and future-ready.",
+                    "path": "/"
+                },
+                {
+                    "id": 2,
+                    "title": "Helping You <br/> Grow In Every Stage.",
+                    "description": "Our expert team is committed to guiding you through every step of the betting experience—whether it’s setting up your crypto wallet, placing your first bet, or cashing out your winnings. We simplify the process so you can focus on enjoying the game."
+                }
+            ]
+        },
+        {
+            "section": "quote-section",
+            "section_title": {
+                "title": "Check out the latest news, live score or monitor how the crypto market changes!"
+            },
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Stay up-to-date with the latest sports news, including live scores and match highlights, all in real-time. Whether you're a sports fan tracking the action or a crypto enthusiast monitoring the fluctuations in the market, our platform offers you the most current data at your fingertips. With seamless integration, you can follow the games, check the scores, and even track crypto prices as they change, ensuring you're always informed and ready to make the best decisions, whether for betting or just staying in the loop."
+                }
+            ]
+        },
+        {
+            "section": "cta-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Bet on sports. Win and receive in crypto <br/> instantly, securely, every time"
+                }
+            ],
+          "texts": [
+                    {
+                        "id": 1,
+                        "content": "Crypto is transforming the betting industry—bringing faster payments, stronger privacy, and global access. With blockchain-based transactions, bettors now enjoy instant, borderless, and secure payouts like never before."
+                    }
+                ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/create",
+                    "content": "Create"
+                },
+                {
+                    "id": 2,
+                    "path": "/contact",
+                    "content": "Contact Us",
+                    "color": "primary-alta"
+                }
+            ],
+            "image": {
+                "src": "/images/banner/about3.jpg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "text": "Home",
+        "path": "/",
+        "icon": "feather-home"
+        
+    },
+    {
+        "id": 2,
+        "text": "About",
+        "path": "/about"
+    }, 
+    {
+        "id": 3,
+        "text": "Crypto",
+        "path":"/crypto"
+    },
+    {
+        "id": 4,
+        "text": "News",
+        "path":"/news"
+    }
+]
